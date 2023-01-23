@@ -53,11 +53,11 @@
 }
 /* hero style end  */
 /* seond section style start */
-.second-container , .third-container{
+.second-container , .third-container , .fourth-container{
     margin-top: 0px;
     margin-bottom: 50px;
 }
-.second-text-box, .third-text-box{
+.second-text-box, .third-text-box , .fourth-text-box{
     margin-top: 150px;
     margin-bottom: 50px;
 }
@@ -74,3 +74,6 @@
 /* seond section style end */
 
 /* fourth section  */
+.accordian-bg{
+    background-color: #dbdbdb;
+}

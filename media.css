@@ -29,21 +29,21 @@
         margin:  0px !important ;
     }
     /* second section  */
-    .second-container , .third-container{
+    .second-container , .third-container , .fourth-container{
         margin-top: 0px;
         margin-bottom: 0px;
     }
-    .second-text-box , .third-text-box{
+    .second-text-box , .third-text-box , .fourth-text-box{
         margin-top: 20px !important;
     }
-    .second-description , .third-description{
+    .second-description , .third-description , .fourth-description{
         margin: 0px !important;
         width: 100% !important;
     }
     .cards{
         padding: 20px !important;
     }
-    /* fourth section  */
+    /* carousel */
     .caru-description h5{
         font-size: 8px;
         margin-bottom: 0px !important;
@@ -52,4 +52,9 @@
         font-size: 8px;
         margin-bottom: 0px !important;
     }
+     /* fourth section  */
+     /* Accordion */
+     .Accordion-box, .Accordion-img-box{
+        width: 100% !important;
+     }
 }
