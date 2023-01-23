@@ -28,4 +28,19 @@
         padding: 0px !important ;
         margin:  0px !important ;
     }
+    /* second section  */
+    .second-container{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .second-text-box{
+        margin-top: 20px !important;
+    }
+    .second-description{
+        margin: 0px !important;
+        width: 100% !important;
+    }
+    .cards{
+        padding: 20px !important;
+    }
 }
