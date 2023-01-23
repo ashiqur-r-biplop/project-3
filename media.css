@@ -1,0 +1,31 @@
+@media only screen and (max-width: 576px){
+    .inner-content{
+       width: 100% !important;
+       margin: 0px !important;
+    }
+    .hero-title{
+        width: 100% !important;
+        margin: 0px !important;
+    }
+    .hero-description{
+        width: 100% !important;
+        margin: 0px !important;
+        margin: 20px 0px !important;
+        line-height: 30px !important;
+    }
+    .hero-btn{
+        width: 80% !important;
+    }
+    .hero-input{
+        padding: 0px 10px !important;
+    }
+    .hero-submit{
+        padding: 7px 10px !important;
+        font-size: 10px;
+    }
+    .hero-input::placeholder{
+        font-size: 10px;
+        padding: 0px !important ;
+        margin:  0px !important ;
+    }
+}
