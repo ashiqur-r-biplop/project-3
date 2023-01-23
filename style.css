@@ -1,0 +1,16 @@
+/* nav bar style start  */
+.cros-icon{
+    filter: brightness(0) invert(1);
+}
+.Consultation-btn:hover{
+    border: 2px solid #B68C5A !important;
+    color: #B68C5A !important;
+    background-color: #fff !important;
+    transition: all 0.4s ease-in-out;
+}
+.modal-footer .close-btn:hover{
+    background-color:  #B68C5A !important;
+    color: #fff !important;
+    transition: all 0.4s ease-in-out;
+}
+/* nav bar style end  */
