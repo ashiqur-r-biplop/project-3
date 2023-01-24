@@ -44,13 +44,23 @@
         padding: 20px !important;
     }
     /* carousel */
-    .caru-description h5{
-        font-size: 8px;
+    .carousel-caption{
+        padding: 10px;
+        overflow: hidden;
+    }
+    .carousel-caption  h5{
         margin-bottom: 0px !important;
     }
-    .caru-description p{
-        font-size: 8px;
-        margin-bottom: 0px !important;
+    .carousel-p{
+        font-size: 6px;
+    }
+    .carousel-caption p{
+        height: auto;
+        margin: 0;
+    }
+    .carousel-caption img{
+        width: 50px !important;
+        margin-top: 20px;
     }
      /* fourth section  */
      /* Accordion */
@@ -62,4 +72,81 @@
         margin: 0px !important;
         margin-top: 10px !important;
      }
+
+}
+@media only screen and (min-width: 577px) and (max-width: 992px){
+    .inner-content{
+       width: 100% !important;
+       margin: 0px !important;
+    }
+    .hero-title{
+        width: 100% !important;
+        margin: 0px !important;
+    }
+    .hero-description{
+        width: 100% !important;
+        margin: 0px !important;
+        margin: 20px 0px !important;
+        line-height: 30px !important;
+    }
+    .hero-btn{
+        width: 80% !important;
+    }
+    .hero-input{
+        padding: 0px 10px !important;
+    }
+    .hero-submit{
+        padding: 20px 30px !important;
+        font-size: 10px;
+    }
+    .hero-input::placeholder{
+        font-size: 10px;
+        padding: 0px !important ;
+        margin:  0px !important ;
+    }
+    /* second section  */
+    .second-container , .third-container , .fourth-container , .fiveth-container{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .second-text-box , .third-text-box , .fourth-text-box , .fiveth-text-box{
+        margin-top: 20px !important;
+    }
+    .second-description , .third-description , .fourth-description , .fiveth-description{
+        margin: 0px !important;
+        width: 100% !important;
+    }
+    .cards{
+        padding: 20px !important;
+    }
+    /* carousel */
+    .carousel-caption{
+        padding: 10px;
+        overflow: hidden;
+    }
+    .carousel-caption  h5{
+        margin-bottom: 0px !important;
+    }
+    .carousel-p{
+        font-size: 14px;
+    }
+    .carousel-caption p{
+        height: auto;
+        margin: 0;
+    }
+    .carousel-caption img{
+        width: 50px !important;
+        margin-top: 20px;
+    }
+     /* fourth section  */
+     /* Accordion */
+     .Accordion-box, .Accordion-img-box{
+        width: 100% !important;
+     }
+     .form{
+        width: 100% !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
+     }
+
 }

@@ -95,6 +95,23 @@
 .Send-Massage{
     background-color: #B68C5A !important;
 }
-.carousel-p{
-    font-size: 6px;
+
+footer{
+    margin-top: 150px !important;
+}
+.footer-btn{
+    border-radius: 10px;
+}
+.footer-btn input{
+    border-radius: 10px 0px 0px 10px;
+    outline: none;
+    border: 0px;
+}
+.footer-btn input::placeholder{
+    color: #B68C5A;
+}
+.footer-btn img{
+    background-color: #B68C5A;
+    width: 80px;
+    border-radius: 0px 10px 10px 0px;
 }
