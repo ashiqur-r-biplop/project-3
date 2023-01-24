@@ -53,11 +53,11 @@
 }
 /* hero style end  */
 /* seond section style start */
-.second-container , .third-container , .fourth-container{
+.second-container , .third-container , .fourth-container , .fiveth-container{
     margin-top: 0px;
     margin-bottom: 50px;
 }
-.second-text-box, .third-text-box , .fourth-text-box{
+.second-text-box, .third-text-box , .fourth-text-box , .fiveth-text-box{
     margin-top: 150px;
     margin-bottom: 50px;
 }
@@ -76,4 +76,25 @@
 /* fourth section  */
 .accordian-bg{
     background-color: #dbdbdb;
+}
+
+/* five section  */
+.five-card{
+    background-color: #f1f1f1;
+}
+.five-card i{
+    color: #B68C5A;
+}
+.form input , .form textarea{
+    background-color: #f1f1f1;
+    outline: none;
+}
+.form input::placeholder , textarea::placeholder{
+    color: #B68C5A;
+}
+.Send-Massage{
+    background-color: #B68C5A !important;
+}
+.carousel-p{
+    font-size: 6px;
 }

@@ -29,14 +29,14 @@
         margin:  0px !important ;
     }
     /* second section  */
-    .second-container , .third-container , .fourth-container{
+    .second-container , .third-container , .fourth-container , .fiveth-container{
         margin-top: 0px;
         margin-bottom: 0px;
     }
-    .second-text-box , .third-text-box , .fourth-text-box{
+    .second-text-box , .third-text-box , .fourth-text-box , .fiveth-text-box{
         margin-top: 20px !important;
     }
-    .second-description , .third-description , .fourth-description{
+    .second-description , .third-description , .fourth-description , .fiveth-description{
         margin: 0px !important;
         width: 100% !important;
     }
@@ -56,5 +56,10 @@
      /* Accordion */
      .Accordion-box, .Accordion-img-box{
         width: 100% !important;
+     }
+     .form{
+        width: 100% !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
      }
 }
