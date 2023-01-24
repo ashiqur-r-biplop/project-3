@@ -1,6 +1,11 @@
 .container-title{
     font-family: 'EB Garamond' !important;
 }
+span{
+    color: #B68C5A;
+    border-bottom: 1px solid #B68C5A;
+    font-weight: 700;
+}
 /* nav bar style start  */
 .cros-icon{
     filter: brightness(0) invert(1);
@@ -95,7 +100,7 @@
 .Send-Massage{
     background-color: #B68C5A !important;
 }
-
+/* footer start style */
 footer{
     margin-top: 150px !important;
 }
@@ -115,3 +120,4 @@ footer{
     width: 80px;
     border-radius: 0px 10px 10px 0px;
 }
+/* footer start end */
